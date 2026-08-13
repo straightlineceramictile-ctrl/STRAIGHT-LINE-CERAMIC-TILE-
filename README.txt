@@ -15,3 +15,14 @@ To update your live site:
 5. Refresh https://straightlineceramictile.com
 
 Form submissions will appear in Netlify under Forms.
+
+
+UPDATE: RECENT PROJECTS
+- Added 5 new bathroom and shower photos.
+- Added a Recent Projects section.
+- Images optimized for faster loading.
+
+To publish:
+1. Open the existing straightlineceramictile.com project in Netlify.
+2. Drag this ZIP into Production deploys.
+3. Wait until it says Published.
